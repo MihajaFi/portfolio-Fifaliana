@@ -1,3 +1,6 @@
+Ce projet de portfolio représente ma vision de moi-même dans 10 ans, 
+démontrant mes compétences et réalisations professionnelles à travers une sélection soignée de mes travaux.
+
 Pour le lancer ouvrir le fichier index.html
 Il vous faut une connexion pour le faire marcher correctement
 
